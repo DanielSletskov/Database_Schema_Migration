@@ -1,4 +1,4 @@
--- Create initial database
+-- Create initial database schema
 CREATE DATABASE eCommerceDB;
 
 --set where to create new table
