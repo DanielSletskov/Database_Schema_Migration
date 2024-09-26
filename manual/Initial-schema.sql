@@ -6,7 +6,7 @@ USE eCommerceDB
 
 -- Create initial table for products
 CREATE TABLE tProducts(
-	categoryID INT IDENTITY(1,1),
-	categoryName VARCHAR(50) NOT NULL,
-	categoryDesc VARCHAR(100) NOT NULL
+	productID INT IDENTITY(1,1) PRIMARY KEY,
+	productName VARCHAR(50) NOT NULL,
+	productPrice Decimal(10,2) NOT NULL
 )
