@@ -1,0 +1,1 @@
+-- query for altering the table product to enable categories to be added. 
