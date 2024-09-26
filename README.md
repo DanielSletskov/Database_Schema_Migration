@@ -9,10 +9,16 @@ __5-__ </br>
  
 ## Manual Database Migration
 __Initial Schema Setup__
-Using a general database diagram of an ecommerce solution as a starting point I started by creating a database named eCommerceDB.
-Afterwards I created a Table and named it tProducts.
-This is just to make sure it easier to know whats a table by clarifying it first in the table name. 
+Using a general database diagram of an ecommerce solution as a starting point I started by creating the database named eCommerceDB.
+Afterwards I created a Table and named it tProducts. </br>
+This is just to make sure it's clear that it's a table by clarifying it first in the table name. </br>
+The initial DB schema is contained in the file ***InitialDBsetup.sql*** </br>
+__Add Product Categories__
+First I create the new table and naming it tProductCategories.
 
+**NOTE: I realized I made an error in the setup of the primary IDs so I went back and set to automaticly increase when new products or categories here added.** </br>
+
+__Implement Product Ratings__
 
 
 
