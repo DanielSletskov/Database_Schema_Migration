@@ -7,9 +7,9 @@ __3-__ Link folder and github</br>
 __4-__   </br>
 __5-__ </br>
  
-## Manual Migration Documentation
+## Manual Database Migration
 
 
 
-## Entity Framework Core Migration
+## Entity Framework Core Migrations
 
