@@ -1,4 +1,6 @@
-INSERT INTO eCommerceDB.dbo.tProductCategories(categoryName,categoryDesc)
-VALUES('Slibeværktøj','Bruges til overflader'),
-('Skæreværktøj','Bruges til beskæring'),
-('Skrueværktøj','Bruges til samling af materialler');
+USE eCommerceDB;
+
+CREATE TABLE tProductRating(
+	ratingID INT IDENTITY(1,1) PRIMARY KEY,
+	ratingVal DECIMAL(10,2) NOT NULL
+)
