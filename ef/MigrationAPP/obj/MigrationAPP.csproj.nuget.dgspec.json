@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\VisualStudioCode\\Projekter\\Migration_Assignment\\MigrationAPP\\MigrationAPP.csproj": {}
+    "D:\\VisualStudioCode\\Projekter\\Migration_Assignment\\ef\\MigrationAPP\\MigrationAPP.csproj": {}
   },
   "projects": {
-    "D:\\VisualStudioCode\\Projekter\\Migration_Assignment\\MigrationAPP\\MigrationAPP.csproj": {
+    "D:\\VisualStudioCode\\Projekter\\Migration_Assignment\\ef\\MigrationAPP\\MigrationAPP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\VisualStudioCode\\Projekter\\Migration_Assignment\\MigrationAPP\\MigrationAPP.csproj",
+        "projectUniqueName": "D:\\VisualStudioCode\\Projekter\\Migration_Assignment\\ef\\MigrationAPP\\MigrationAPP.csproj",
         "projectName": "MigrationAPP",
-        "projectPath": "D:\\VisualStudioCode\\Projekter\\Migration_Assignment\\MigrationAPP\\MigrationAPP.csproj",
+        "projectPath": "D:\\VisualStudioCode\\Projekter\\Migration_Assignment\\ef\\MigrationAPP\\MigrationAPP.csproj",
         "packagesPath": "C:\\Users\\Danie\\.nuget\\packages\\",
-        "outputPath": "D:\\VisualStudioCode\\Projekter\\Migration_Assignment\\MigrationAPP\\obj\\",
+        "outputPath": "D:\\VisualStudioCode\\Projekter\\Migration_Assignment\\ef\\MigrationAPP\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
