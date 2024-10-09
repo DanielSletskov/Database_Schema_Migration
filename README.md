@@ -11,7 +11,7 @@ __1.Initial Schema Setup__
 1- Using a general database diagram of an ecommerce solution as a starting point I started by creating the database named eCommerceDB.</br>
 2- Afterwards I created a script Table and with the name tProducts. </br>
 3- In the script I set to table to start with 3 variables. </br>
-productID INT. productName varchar(50). productPrice decumal(10,2) 
+productID INT. productName varchar(50). productPrice decumal(10,2) </br>
 **NOTE: All table is starting with a t. This is to make sure it's clear that it's a table by clarifying it first in the table name. Also to ease futere work on the database.** </br>
 The initial DB schema is contained in the file ***InitialDBsetup.sql*** </br>
 __2.Add Product Categories__
